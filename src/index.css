@@ -11,7 +11,7 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
-
+/* Navbar styling--start  */
 .Navbar {
   display: flex;
   justify-content: space-between;
@@ -21,9 +21,8 @@ code {
   z-index: 2;
   height: 70px;
   top: 0;
-  background-color: #01111a; /* Added background to keep nav visible */
+  background-color: #01111a;
 }
-
 .Logo {
   font-size: 32px;
   letter-spacing: 2px;
@@ -31,7 +30,6 @@ code {
   color: #c6b067;
   cursor: pointer;
 }
-
 .NavbarLinks {
   display: flex;
   justify-content: space-between;
@@ -40,12 +38,10 @@ code {
   font-weight: 500;
   font-size: 22px;
 }
-
 .NavbarLinks li {
   padding: 2px 20px;
   list-style-type: none;
 }
-
 .NavbarLinks a {
   color: #c2c1c2;
   display: flex;
@@ -57,11 +53,9 @@ code {
   letter-spacing: 0.5px;
   text-decoration: none;
 }
-
 .NavbarLinks a:hover {
   color: #ffffff;
 }
-
 .NavbarLinks a::after {
   background-color: #ffffff;
   content: "";
@@ -73,7 +67,94 @@ code {
   border-radius: 2px;
   transition: 0.3s;
 }
-
 .NavbarLinks a:hover:after {
   width: 95%;
 }
+/* Navbar styling--end  */
+
+/* Footer styling start  */
+footer{
+  width: 90%;
+  height: 40px;
+  margin: 10px auto;
+  margin-top: 80px;
+  letter-spacing: 0.5px;
+  
+  display:flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-evenly;
+  
+  position: relative;
+  bottom: 0px;
+  text-align: center;
+}
+
+footer h4{
+  margin: 0 25px;
+  font-weight: 500;
+}
+/* Footer styling end  */
+
+/* Home Page styling start  */
+.HomePage{
+  display: flex;
+  justify-content: space-evenly;
+  min-height: 80vh;
+  margin-top: 100px;
+  margin-bottom: -50px;
+  align-items: center;
+}
+.HomeText h1{
+  font-weight: 600;
+  font-size: 38px;
+  letter-spacing: 0.7px;
+  padding-top: 10px;
+}
+
+.TypeEffect{
+  padding: 25px 0px;
+  font-weight: 300;
+  font-size: 32px;
+  letter-spacing: 0.6px;
+}
+/* Home Page styling end  */
+
+/* About Page styling start  */
+.AboutPage {
+  display: flex;
+  justify-content: space-evenly;
+  min-height: 80vh;
+  margin-top: 100px;
+  align-items: center;
+  padding: 25px;
+  flex-wrap: wrap; /* optional: helps on smaller screens */
+}
+
+.AboutText {
+  width: 50%;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 30px;
+  letter-spacing: 1.2px;
+  text-align: left;        /* Ensures text aligns from the left */
+  padding-right: 20px;     /* Optional: add spacing from the image */
+}
+
+
+.AboutTextHeading {
+  font-size: 35px;
+  font-weight: 600;
+  padding-bottom: 40px;
+}
+.AboutText a {
+  color: #9067C6;
+  text-decoration: underline;
+  font-weight: bold;
+}
+
+.Avatar {
+  width: 280px;
+  max-width: 100%;
+}
+/* About Page styling end  */

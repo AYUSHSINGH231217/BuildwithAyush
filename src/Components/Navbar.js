@@ -5,6 +5,7 @@ const Nav = () => {
   return (
     <nav className="Navbar">
       <h1 title='Reload' onClick={() => window.location.reload(true)} className='Logo'>AS</h1>
+      
 
       <ul className='NavbarLinks'>
         <li><Link to="/"> Home</Link></li>
