@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/BuildwithAyush/static/css/main.4865bd1e.css",
+    "main.js": "/BuildwithAyush/static/js/main.d16d603b.js",
+    "static/js/453.f9acdfb6.chunk.js": "/BuildwithAyush/static/js/453.f9acdfb6.chunk.js",
+    "static/media/Avatar.png": "/BuildwithAyush/static/media/Avatar.fa312ccf8f85946c64d0.png",
+    "index.html": "/BuildwithAyush/index.html",
+    "main.4865bd1e.css.map": "/BuildwithAyush/static/css/main.4865bd1e.css.map",
+    "main.d16d603b.js.map": "/BuildwithAyush/static/js/main.d16d603b.js.map",
+    "453.f9acdfb6.chunk.js.map": "/BuildwithAyush/static/js/453.f9acdfb6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4865bd1e.css",
+    "static/js/main.d16d603b.js"
+  ]
+}
