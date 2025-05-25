@@ -1,16 +1,18 @@
 {
   "files": {
-    "main.css": "/BuildwithAyush/static/css/main.4865bd1e.css",
-    "main.js": "/BuildwithAyush/static/js/main.d16d603b.js",
+    "main.css": "/BuildwithAyush/static/css/main.38f4b9b2.css",
+    "main.js": "/BuildwithAyush/static/js/main.f3debf52.js",
     "static/js/453.f9acdfb6.chunk.js": "/BuildwithAyush/static/js/453.f9acdfb6.chunk.js",
     "static/media/Avatar.png": "/BuildwithAyush/static/media/Avatar.fa312ccf8f85946c64d0.png",
+    "static/media/bootstrap-icons.woff?": "/BuildwithAyush/static/media/bootstrap-icons.1295669cd4e305c97f2c.woff",
+    "static/media/bootstrap-icons.woff2?": "/BuildwithAyush/static/media/bootstrap-icons.92ea18a81d737146ff04.woff2",
     "index.html": "/BuildwithAyush/index.html",
-    "main.4865bd1e.css.map": "/BuildwithAyush/static/css/main.4865bd1e.css.map",
-    "main.d16d603b.js.map": "/BuildwithAyush/static/js/main.d16d603b.js.map",
+    "main.38f4b9b2.css.map": "/BuildwithAyush/static/css/main.38f4b9b2.css.map",
+    "main.f3debf52.js.map": "/BuildwithAyush/static/js/main.f3debf52.js.map",
     "453.f9acdfb6.chunk.js.map": "/BuildwithAyush/static/js/453.f9acdfb6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4865bd1e.css",
-    "static/js/main.d16d603b.js"
+    "static/css/main.38f4b9b2.css",
+    "static/js/main.f3debf52.js"
   ]
 }
