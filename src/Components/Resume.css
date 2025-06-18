@@ -1,0 +1,29 @@
+.resume-container {
+  text-align: center;
+  padding: 50px 20px;
+}
+
+.resume-title {
+  font-size: 2rem;
+  margin-bottom: 20px;
+      MARGIN-TOP: 98PX;
+}
+
+.download-container {
+  margin-top: 20px;
+}
+
+.download-btn {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 12px 24px;
+  font-size: 1rem;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.download-btn:hover {
+  background-color: #0056b3;
+}
